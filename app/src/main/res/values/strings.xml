@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RobotInfres</string>
+    <string name="ip">IP</string>
+    <string name="port">Port</string>
+    <string name="connect">Se connecter</string>
+    <string name="connect_ok">Connection OK</string>
+    <string name="connect_ko">Connection KO</string>
+</resources>
